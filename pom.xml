@@ -14,7 +14,7 @@
     <name>kotlin-apirest</name>
     <description>kotlin-apirest</description>
     <properties>
-        <java.version>20</java.version>
+        <java.version>17</java.version>
         <kotlin.version>1.9.10</kotlin.version>
     </properties>
     <dependencies>
